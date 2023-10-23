@@ -5,3 +5,4 @@ builder:
     documentation_targets: [StreamChatSwiftUI]
     scheme: StreamChatSwiftUI
     swift_version: 5.8
+    custom_documentation_parameters: [--experimental-skip-synthesized-symbols]
